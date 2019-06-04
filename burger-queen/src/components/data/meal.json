@@ -1,0 +1,60 @@
+[{
+    "item": "Hamburguesa sencilla de Res",
+    "price": 10,
+    "id":"smeat"
+    },
+    {
+    "item": "Hamburguesa sencilla de Pollo",
+    "price": 10,
+    "id":"schi"
+    },
+    {
+    "item": "Hamburguesa sencilla de Vegetales",
+    "price": 10,
+    "id":"sveg"
+    },
+    {
+    "item": "Hamburguesa doble de Res",
+    "price": 15,
+    "id":"dmeat"
+    },
+    {
+    "item": "Hamburguesa doble de Pollo",
+    "price": 15,
+    "id":"dchi"
+    },
+    {
+    "item": "Hamburguesa doble de Vegetales",
+    "price": 15,
+    "id":"dveg"
+    },
+    {
+    "item": "Papas fritas",
+    "price": 5,
+    "id":"fries"
+    },
+    {
+    "item": "Aros de cebolla",
+    "price": 5,
+    "id":"onrings"
+    },
+    {
+    "item": "Agua 500ml",
+    "price": 5,
+    "id":"w500"
+    },
+    {
+    "item": "Agua 750ml",
+    "price": 7,
+    "id":"w750"
+    },
+    {
+    "item": "Bebida/gaseosa 500ml",
+    "price": 7,
+    "id":"soda500"
+    },
+    {
+    "item": "Bebida/gaseosa 750ml",
+    "price": 10,
+    "id":"soda750"
+    }]
